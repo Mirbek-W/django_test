@@ -9,7 +9,7 @@ https://docs.djangoproject.com/en/4.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
-
+# внимание тем кто читает это да  тут есть говоно код но все равно это только же тестоввая станица учлся я 
 from pathlib import Path
 import os,sys
 
